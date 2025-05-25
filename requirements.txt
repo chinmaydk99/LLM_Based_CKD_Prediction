@@ -1,0 +1,23 @@
+# Core data processing libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+tqdm>=4.64.0
+
+# Medical data processing
+icd-mappings>=0.4.0
+
+# Machine Learning and Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.10.0
+peft>=0.4.0
+bitsandbytes>=0.39.0
+
+# Utilities
+pathlib
+pickle
+argparse
+logging
+warnings
+datetime 
